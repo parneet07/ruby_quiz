@@ -1,0 +1,12 @@
+ Ans (1): "hello" ->is a string and its object id changes every time when we run it:hello-> object id does'nt change and we get same value every time . 
+
+Ans(2):in ruby, a class can only inherit from single other class,A class can only inherit from one class at a time,a single class can not inherit from many classes at once .
+
+Ans(3):In ruby the main difference is that, the ! methods are selfish, i.e. they apply the changes to the self object. They return nil, when no changes are done, while the non-! methods create new modified object.
+
+Ans(4):1..10 wil display all the integers between 1 and 10 whereas,1...10 will display only the natural numbers betwee n 1 and 10 .
+
+Ans(5): with  Attr_reader  instance variable can only be accessed but not channged  whereas  with Attr_writer one can easily change instance variable . 
+
+
+ 
